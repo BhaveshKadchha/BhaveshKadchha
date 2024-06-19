@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img align="left" width="100px" src="images/Hello.png" /></td>
+    <td><img align="left" width="100px" src="images/Hello.gif" /></td>
     <td>
       <h1>
       <p align = "center">
