@@ -15,12 +15,13 @@
         <img align="center" alt="BhaveshKadchha|LinkedIn" width="45px" src="images/linkedin.gif" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://github.com/BhaveshKadchha/">
-        <img align="center" alt="BhaveshKadchha|GitHub" width="40px" src="images/github.png" />
+        <img align="center" alt="BhaveshKadchha|GitHub" width="40px" src="images/github-logo.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="mailto:bhaveshkadchha1@gmail.com">
         <img align="center" alt="BhaveshKadchha|Gmail" width="40px" src="images/gmail.png" />
       </a>&nbsp;&nbsp;&nbsp;&nbsp;
       <img align="center" title="bhaveshkadchha" alt="BhaveshKadchha|Discord" width="46px" src="images/discord.gif" />
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
     </td>
   </tr>
