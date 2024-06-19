@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**BhaveshKadchha/BhaveshKadchha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><img align="left" src="images/visualstudio.png" /></td>
+    <td>
+      <h1>
+      <p align = "center">
+      Welcome to Bhavesh Kadchha's git. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      </p>
+      </h1>
+      <p align = "center">
+        <img src = "https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Senior+Unity+Developer;6+years+of+experience">
+      </p>
+      <p align = "center">
+      <a href="https://www.linkedin.com/in/bhavesh-kadchha-84967314b">
+        <img align="center" alt="BhaveshKadchha|LinkedIn" width="45px" src="images/linkedin.gif" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/BhaveshKadchha/">
+        <img align="center" alt="BhaveshKadchha|GitHub" width="40px" src="images/github.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:bhaveshkadchha1@gmail.com">
+        <img align="center" alt="BhaveshKadchha|Gmail" width="40px" src="images/gmail.png" />
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" title="bhaveshkadchha" alt="BhaveshKadchha|Discord" width="46px" src="images/discord.gif" />
+      </p>
+    </td>
+  </tr>
+</table>
