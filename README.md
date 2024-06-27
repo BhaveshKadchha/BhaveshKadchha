@@ -15,13 +15,8 @@
         <a href="https://www.linkedin.com/in/bhavesh-kadchha-84967314b">
           <img align="center" alt="BhaveshKadchha|LinkedIn" width="40px" src="images/linkedin.png" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/BhaveshKadchha/">
-          <img align="center" alt="BhaveshKadchha|GitHub" width="40px" src="images/git.png" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:bhaveshkadchha1@gmail.com">
           <img align="center" alt="BhaveshKadchha|Gmail" width="40px" src="images/gmail.png" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img align="center" title="bhaveshkadchha" alt="BhaveshKadchha|Discord" width="40px" src="images/discord.png" />
         </a>&nbsp;&nbsp;&nbsp;&nbsp;
       </p>
     </td>
