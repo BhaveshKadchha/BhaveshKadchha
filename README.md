@@ -54,7 +54,7 @@
           <td>
             <img align="center" alt="BhaveshKadchha|Unity" width="35px" src="images/unity.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="BhaveshKadchha|VS" width="35px" src="images/visualstudio.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="BhaveshKadchha|Node" width="35px" src="images/nodejs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+            <img align="center" alt="BhaveshKadchha|Nest" width="35px" src="images/nestjs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="BhaveshKadchha|UE" width="35px" src="images/ue.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
             <img align="center" alt="BhaveshKadchha|Blender" width="35px" src="images/blender.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
           </td>
