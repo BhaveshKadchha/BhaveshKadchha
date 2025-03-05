@@ -7,18 +7,14 @@
           Welcome to my Git. <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc2YTlrbXkzOGJuY2xnMDR1czdzZmhyZGp1Y2NnYTNlZnlqZXBteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif" width="28">
         </p>
       </h1>
-      <p align="center">
-        <img
-          src="https://readme-typing-svg.herokuapp.com?color=6AF700&center=true&vCenter=true&width=500&lines=Unity3D+Developer+since+2018">
-      </p>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/bhavesh-kadchha-84967314b">
-          <img align="center" alt="BhaveshKadchha|LinkedIn" width="40px" src="images/linkedin.png" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:bhaveshkadchha1@gmail.com">
-          <img align="center" alt="BhaveshKadchha|Gmail" width="40px" src="images/gmail.png" />
-        </a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </p>
+        <p align="center">
+            <a href="https://www.linkedin.com/in/bhavesh-kadchha-84967314b" style="text-decoration: none;">
+                <img align="center" alt="BhaveshKadchha|LinkedIn" width="40px" src="images/linkedin.png" />
+            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:bhaveshkadchha1@gmail.com" style="text-decoration: none;">
+                <img align="center" alt="BhaveshKadchha|Gmail" width="40px" src="images/gmail.png" />
+            </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </p>
     </td>
   </tr>
 </table>
@@ -29,9 +25,9 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 Currently learning how to create Game Engine.</a>
-        <li>🌱 I'm currently practising C++ and game engine programming.</li>
         <li>💻 Making games in Unity3D since 2018.</li>
+        <li>🔭 Currently learning low level programming.</a>
+        <li>🌱 Currently practicing zig.</li>
       </ul>
     </td>
   </tr>
