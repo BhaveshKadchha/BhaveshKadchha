@@ -15,7 +15,7 @@ I'm a Unity developer who loves diving into new programming languages like a kid
 - 🎨 Exploring game mechanics and design
 
 ## 🔗 Let's Connect!
-- 🌐 [Portfolio](#) *(coming soon? 🤔)*
+- 🌐 [Portfolio](https://bhaveshkadchha.github.io/portfolio/) *(coming soon? 🤔)*
 - 🐦 [Twitter](https://x.com/bhavesh_gamedev) *(for random dev thoughts)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-kadchha/) *(because networking is a thing)*
 
